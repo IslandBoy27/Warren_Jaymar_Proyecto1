@@ -535,4 +535,5 @@ public class Tablero extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel8;
     private javax.swing.JPanel jPanel1;
     // End of variables declaration//GEN-END:variables
+    //commit final verificacion total
 }
