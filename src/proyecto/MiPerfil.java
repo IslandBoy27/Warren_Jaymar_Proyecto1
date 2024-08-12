@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
 public class MiPerfil extends javax.swing.JFrame {
-
+//testo y comprovacion perfiles
     ArrayList<Usuario> Usuarios;
     ArrayList<Logs> Todoslos_Logs;
     int indexUser;
