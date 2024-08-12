@@ -4,7 +4,7 @@ package proyecto;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
-
+//verificacion de cuentas
 public class Login extends javax.swing.JFrame {
 ArrayList<Logs> Todoslos_Logs;
     ArrayList<Usuario> Usuarios;
