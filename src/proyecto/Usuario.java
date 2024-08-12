@@ -8,7 +8,7 @@ public class Usuario {
 
     double Puntos;
 
-    //Constructor
+    //Constructor 1
     public Usuario(String atributoUser, String atributoContra) {
         User = atributoUser;
         Contra = atributoContra;
